@@ -1,4 +1,3 @@
-# loan-prediction
 In this project I analyse the loan prediction.  
 
 The dataset is taken from the webpage of Kaggle: https://www.kaggle.com/ninzaami/loan-predication.  
